@@ -12,3 +12,7 @@ Për të shkarkuar aplikacionin, përdorni komandën e mëposhtme:
 
 ```bash
 git clone https://github.com/aksk-gov/playbooks.git
+
+## Përgjegjësia (Disclaimer)
+Ky aplikacion duhet të shkarkohet vetëm nga URL-ja zyrtare në GitHub: https://github.com/aksk-gov/playbooks.git.
+Shkarkimi i tij nga burime të tjera mund të përmbajë rreziqe për sigurinë dhe nuk mbulohet nga garancia e autorëve të tij.
